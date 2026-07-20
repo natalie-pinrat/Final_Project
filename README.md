@@ -1,6 +1,6 @@
 # Final_Project: Indigo
 ______________________________________________________________________________________________________________________
-Indigo is a simple 3D game where you try to escape a dungeon that a ghost calls home.
+**Indigo** is a simple 3D game where you try to escape a dungeon that a ghost calls home.
 ______________________________________________________________________________________________________________________
 Controls:
 - W/A/S/D for player movement
